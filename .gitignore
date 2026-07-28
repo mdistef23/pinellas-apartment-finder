@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+*.json
+*.html
+*.pdf
+reports/
+.DS_Store
